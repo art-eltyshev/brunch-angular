@@ -1,0 +1,19 @@
+{
+  "name": "YourAwesomeApplication",
+  "description": "Description",
+  "author": "Your Name",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "javascript-brunch": "^1.8",
+    "css-brunch": "^1.7",
+    "uglify-js-brunch": "^1.7",
+    "clean-css-brunch": "^1.8",
+    "less": "^2.5",
+    "less-brunch": "^1.8"
+  }
+}
